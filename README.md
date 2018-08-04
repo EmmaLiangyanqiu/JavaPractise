@@ -1,2 +1,4 @@
 # JavaPractise
-just a test
+第一道编程题为practise1
+第二道编程题为practise2
+第三道编程题为practise3
